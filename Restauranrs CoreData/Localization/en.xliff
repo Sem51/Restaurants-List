@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Restauranrs CoreData/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Restauranrs CoreData/Info.plist" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Restauranrs CoreData/Localizable.strings" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8B62"/>
+    </header>
+    <body>
+      <trans-unit id="Been here">
+        <source>Been here</source>
+		<target>Я был здесь</target>
+        <note>Been here field</note>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+		<target>Местоположение</target>
+        <note>Location field</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+		<target>Название</target>
+        <note>Name field</note>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+		<target>Нет</target>
+        <note>No answer</note>
+      </trans-unit>
+      <trans-unit id="Phone">
+        <source>Phone</source>
+		<target>Телефон</target>
+        <note>Phone field</note>
+      </trans-unit>
+      <trans-unit id="Type">
+        <source>Type</source>
+		<target>Тип</target>
+        <note>Type field</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+		<target>Да</target>
+        <note>Yes answer</note>
+      </trans-unit>
+      <trans-unit id="no phone number">
+        <source>no phone number</source>
+		<target>Нет номера телефона</target>
+        <note>no phone number field</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
